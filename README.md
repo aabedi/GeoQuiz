@@ -1,2 +1,2 @@
 # GeoQuiz
-Android App based off of Big Nerd Ranch Android guide.
+A basic quiz app made in Android Studio.
